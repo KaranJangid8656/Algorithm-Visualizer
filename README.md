@@ -2,7 +2,6 @@
 
 An interactive web application for visualizing the Floyd-Warshall algorithm, which finds the shortest paths between all pairs of nodes in a graph.
 
-![Floyd-Warshall Algorithm Visualizer](https://i.imgur.com/example.png)
 
 ## Features
 
@@ -15,47 +14,8 @@ An interactive web application for visualizing the Floyd-Warshall algorithm, whi
 - **Import/Export**: Save and load your graph structures as JSON files
 - **Drag and Drop**: Reposition nodes by dragging them on the canvas
 
-## Getting Started
 
-### Prerequisites
 
-- Node.js (version 14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/floyd-warshall-visualizer.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd floyd-warshall
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-   
-   If you encounter peer dependency issues, you can use:
-   ```
-   npm install --legacy-peer-deps
-   ```
-
-4. Start the development server:
-   ```
-   npm run dev
-   ```
-
-5. Open your browser and navigate to `http://localhost:3000`
-
-> **Note**: If running the project from the parent directory, use:
-> ```
-> cd floyd-warshall
-> npm run dev
-> ```
 
 ## Usage
 
