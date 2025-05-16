@@ -72,7 +72,6 @@ The visualizer highlights:
 
 [MIT License](LICENSE)
 
-## Acknowledgments
 
-- The algorithm visualization is inspired by educational materials on the Floyd-Warshall algorithm
-- UI components from shadcn/ui (https://ui.shadcn.com) 
+
+
